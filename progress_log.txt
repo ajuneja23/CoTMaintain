@@ -1,0 +1,14 @@
+5-2 goals:
+
+getting back to working on this. mathchat has 4 main datasets and for today I want to get evals for naive+adaptive method on follow_up.jsonl.
+
+
+5-2 final progress:
+whoops went to play basketball, but got all the mathchat data in a easy format. 
+
+
+5-3 goals: 
+actually get naive+adaptive method evals on follow_up.jsonl.
+
+5-3 final progress: 
+
